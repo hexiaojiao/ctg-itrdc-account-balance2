@@ -9,5 +9,7 @@ public class eee {
 		
 		String s="sss|sss";
 		System.out.println(s.replaceAll("/|", "/"));
+		
+		System.out.println(".......");
 	}
 }
